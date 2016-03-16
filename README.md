@@ -1,5 +1,6 @@
 # keyboard-shortcuts
 
+![alt text](http://giphy.com/gifs/PvvSfSDFoAL5e "Logo Title Text 1")
 
 ### Basic Mac Shortcuts
 #### These key combos work in most Mac applications
